@@ -50,3 +50,4 @@ def get_candidate_data(candidate):
     candidate_list += f"Позиция кандидата - {candidate['position']}<br>"
     candidate_list += f"Навыки через запятую - {candidate['skills']}<br>"
     return candidate_list
+print
